@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.manageprogramme"
-    compileSdk = 35
+    compileSdk =35
 
     defaultConfig {
         applicationId = "com.example.manageprogramme"
@@ -44,7 +44,6 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:33.5.1"))
     implementation("com.google.firebase:firebase-auth")
     implementation("com.google.firebase:firebase-database")
-    // implementation("com.google.firebase:firebase-firestore") // দরকার হলে আনকমেন্ট
 
     // Tests
     testImplementation("junit:junit:4.13.2")
