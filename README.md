@@ -30,20 +30,6 @@ The project focuses on simplifying event planning through an organized interface
 | Firebase Authentication | User registration and login |
 | Firebase Realtime Database | Storing and managing booking data |
 
-## 📱 Application Screenshots
-
-<!-- Add your application screenshots here -->
-
-You can upload screenshots to a `screenshots` folder in your repository and display them here.
-
-Example:
-
-```markdown
-![Home Screen](screenshots/home.png)
-![Login Screen](screenshots/login.png)
-![Cart Screen](screenshots/cart.png)
-```
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
