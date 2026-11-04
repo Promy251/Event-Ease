@@ -71,8 +71,6 @@ This project also provided practical experience in Android application developme
 
 Developed as an Android application development project.
 
-**GitHub Repository:** [EventEase](https://github.com/minhazchyz/EventEase.git)
-
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
